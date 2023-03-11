@@ -6,7 +6,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Old-School Filter (Monochrome Beastars 🐺 Manga)
+# # Old-School Monochrome Filter 🐺
 
 # My monochrome_filter() function transforms this image of the wolf character Legoshi from the manga "Beastars" into a formidable beast by adding a monochrome effect to his appearance.
 
