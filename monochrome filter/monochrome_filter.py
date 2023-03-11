@@ -26,5 +26,3 @@ def monochrome_filter(monochrome):
     return monochrome
 
 monochrome_filter(monochrome_filter)
-
-# In[ ]:
