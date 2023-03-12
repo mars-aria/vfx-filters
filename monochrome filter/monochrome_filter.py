@@ -9,7 +9,7 @@ import PIL.ImageOps
 from PIL import Image
 
 def monochrome_filter(monochrome):
-    img = Image.open('legoshi.jpg')
+    img = Image.open('legoshi.png')
     rgbimage = img.convert('RGB')
     monochrome = PIL.ImageOps.invert(rgbimage)
     monochrome.save('monochrome.png')
