@@ -6,4 +6,4 @@ Film-Noir 🕵🏾‍♀️ : My film_noir() function transforms this image of t
 
 Monochrome 🐺 : My monochrome_filter() function transforms this image of the wolf character Legoshi from the manga "Beastars" into a formidable beast by adding a monochrome effect to his appearance.
 
-*Reference:* https://pillow.readthedocs.io/en/stable/reference/ImageOps.html
+**Reference:** https://pillow.readthedocs.io/en/stable/reference/ImageOps.html
