@@ -1,6 +1,6 @@
 # VFX Filters
 
-**Broken Frame 🔨:** My broken_frame() function creates a fractured effect to an image of an illustration that I liken in appearance to the Distorted Glass filter in Photoshop. 
+**Broken Frame 🔨:** My broken_frame() function adds a fractured effect to an image of an illustration that I liken in appearance to the Distorted Glass filter in Photoshop. 
 
 **Film-Noir 🕵🏾‍♀️:** My film_noir() function transforms an image of the Strawhat Pirates from the manga "One Piece" by creating a black-and-white, vintage-style effect similar to the Grayscale filter in Photoshop. 
 
